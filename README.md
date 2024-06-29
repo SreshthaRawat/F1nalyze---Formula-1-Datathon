@@ -10,3 +10,7 @@ A preprocessing pipeline is set up using scikit-learn to handle both numerical a
 
 Numerical Features: Imputed using IterativeImputer and scaled using StandardScaler.
 Categorical Features: Imputed using SimpleImputer and one-hot encoded using OneHotEncoder.
+
+
+kaggle notebook
+https://www.kaggle.com/code/notbobmarley/notebook520d27abfa
